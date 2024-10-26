@@ -1,0 +1,13 @@
+allow_config_override: false
+auto_approval_accounts:
+  - skia-flutter-autoroll
+  - engine-flutter-autoroll
+  - dependabot[bot]
+  - dependabot
+  - DartDevtoolWorkflowBot
+  - flutter-pub-roller-bot
+  - auto-submit[bot]
+  - auto-submit
+approving_reviews: 1
+run_ci: true
+support_no_review_revert: true
