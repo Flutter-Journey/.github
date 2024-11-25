@@ -1,0 +1,28 @@
+on:
+  issue_comment:
+    types: [created, edited, deleted]
+
+name: Public Chat Group
+
+jobs:
+  update_guestbook:
+    name: Update Message
+    if: ${{ github.event.issue.title == 'Public Chat Group 🌱 🌱 🌱' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Update guestbook from comments
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const guestbook = require('./.github/public_chat_message.js')
+            guestbook({github, context})
+      - name: Push guestbook update
+        run: |
+          git config --global user.name 'Github Actions'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m ':dart: update message' || echo "No changes to commit"
+          git push
