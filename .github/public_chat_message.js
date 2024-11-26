@@ -39,7 +39,7 @@ module.exports = async ({github, context}) => {
     const fileSystem = require('fs');
     const path = require('path');
 
-    const readmePath = path.join(__dirname, 'profile', 'README.md');
+    const readmePath = 'profile/README.md';
 
     const readme = fileSystem.readFileSync(readmePath, 'utf8');
 
