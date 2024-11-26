@@ -6,8 +6,8 @@ Our goal is to share our knowledge through helpful project, create a positive op
 
 We focus on clear, achievable tasks and encourage learning by doing.
 
-[![Flutter Journey][logo_black]][flutter_journey_link]
-[![Flutter Journey][logo_white]][flutter_journey_link]
+[![Flutter Journey][logo_black]][flutter_journey_link_black]
+[![Flutter Journey][logo_white]][flutter_journey_link_white]
 
 #### Check out our developer hub at [flutter-journey.dev](https://flutter-journey.dev) 👇
 
@@ -47,7 +47,8 @@ We focus on clear, achievable tasks and encourage learning by doing.
 
 [logo_black]: https://github.com/Flutter-Journey/.github/raw/main/media/logo_black.png#gh-dark-mode-only
 [logo_white]: https://github.com/Flutter-Journey/.github/raw/main/media/logo_white.png#gh-light-mode-only
-[flutter_journey_link]: https://github.com/Flutter-Journey
+[flutter_journey_link_white]: https://github.com/Flutter-Journey#gh-light-mode-only
+[flutter_journey_link_black]: https://github.com/Flutter-Journey#gh-dark-mode-onl
 [flutter_journey_github_link]: https://github.com/Flutter-Journey
 [fruit_cutting_game]: https://github.com/Flutter-Journey/Fruit-Cutting-Game
 [spotify_clone]: https://github.com/Flutter-Journey/Spotify-With-Flutter
