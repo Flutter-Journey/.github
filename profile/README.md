@@ -11,10 +11,6 @@
 <!-- PublicChatGroup -->
 | Name | Date | Message |
 |---|---|---|
-|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=43b85e2f73bd4fa076014769eac009907a06594f&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|11/26/2024, 8:42:05 AM (UTC+7)|a|
-|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=43b85e2f73bd4fa076014769eac009907a06594f&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|11/26/2024, 8:37:09 AM (UTC+7)|a|
-|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=43b85e2f73bd4fa076014769eac009907a06594f&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|11/26/2024, 8:32:38 AM (UTC+7)|h|
-|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=43b85e2f73bd4fa076014769eac009907a06594f&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|11/26/2024, 8:22:46 AM (UTC+7)|haha|
 |[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=43b85e2f73bd4fa076014769eac009907a06594f&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|11/26/2024, 8:15:00 AM (UTC+7)|hehe|
 |[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=43b85e2f73bd4fa076014769eac009907a06594f&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|11/26/2024, 7:56:29 AM (UTC+7)|Hello World xD|
 <!-- /PublicChatGroup -->
