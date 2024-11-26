@@ -1,26 +1,30 @@
 # Welcome to Flutter Journey Open Source!
+
 Home of open source software maintained by [Flutter Journey][flutter_journey_github_link].
 
-Our goal is to share our knowledge through helpful tools, maintain a positive open source community that helps developers improve their Flutter skills.  We focus on clear, achievable tasks and encourage learning by doing
+Our goal is to share our knowledge through helpful project, create a positive open source community that helps developers improve their Flutter skills.
+
+We focus on clear, achievable tasks and encourage learning by doing.
 
 [![Flutter Journey][logo_white]][flutter_journey_link_dark]
 [![Flutter Journey][logo_black]][flutter_journey_link_light]
 
-### Check out our developer hub at [flutter-journey.dev](https://flutter-journey.dev) 👇
-<a href="https://flutter-journey.dev"><img src="https://github.com/Flutter-Journey/.github/blob/main/media/community_preview.png" alt="Flutter Journey Hub" width="500"/></a>
+#### Check out our developer hub at [flutter-journey.dev](https://flutter-journey.dev) 👇
 
-### Try our exciting tools 👇
+<a href="https://flutter-journey.dev"><img src="https://github.com/Flutter-Journey/.github/blob/main/media/community_preview.png" alt="Flutter Journey Hub" width="450"/></a>
 
-#### 🔥 Flame Game
+### Try our very good project 🎯
+
+#### Flame Game
 
 - 🍉 **[Fruit Cutting Game][fruit_cutting_game]**: A Flutter game template with slicing mechanics for fun and learning.
 
-#### 🎯 Application Projects
+#### Application Projects
 
 - 🎵 **[Spotify Clone][spotify_clone]**: Build an interactive music streaming UI using Flutter.
 - 🍽️ **[Food Restaurant UI][food_restaurant_ui]**: A beautifully designed food ordering app clone built using Flutter.
 
-#### 💼 Learning Challenges
+#### Learning Challenges
 
 - 🎨 **[Flutter UI Challenge][flutter_ui_challenge]**: Explore and solve UI challenges to improve your Flutter skills.
 - 🔥 **[Flutter Firebase][flutter_firebase]**: Learn and integrate Firebase services into your Flutter projects.
@@ -30,7 +34,8 @@ Our goal is to share our knowledge through helpful tools, maintain a positive op
 ## Flutter Journey Public Chat Group 🎯
 
 <p>This is a public chat for anyone to join in and chat about all things Flutter, share new ideas, or just have a good time! 📝</p>
-<p><a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new" style="font-style: italic;">Let's keep the conversation flowing!</a></p>
+
+<p><a href="https://github.com/Flutter-Journey/.github/issues/1#issuecomment-new" style="font-style: italic;">Let's keep the conversation flowing!</a></p>
 
 
 <!-- PublicChatGroup -->
@@ -40,10 +45,13 @@ Our goal is to share our knowledge through helpful tools, maintain a positive op
 <!-- /PublicChatGroup -->
 
 
-[logo_black]: https://github.com/Flutter-Journey/.github/raw/main/media/logo_black.png#gh-light-mode-only
-[logo_white]: https://github.com/Flutter-Journey/.github/raw/main/media/logo_white.png#gh-dark-mode-only
+[logo_black]: https://github.com/Flutter-Journey/.github/raw/main/media/logo_black.png#gh-dark-mode-only
+[logo_white]: https://github.com/Flutter-Journey/.github/raw/main/media/logo_white.png#gh-light-mode-only
 [flutter_journey_link_dark]: https://flutter-journey.github.io#gh-dark-mode-only
 [flutter_journey_link_light]: https://flutter-journey.github.io#gh-light-mode-only
 [flutter_journey_github_link]: https://github.com/Flutter-Journey
 [fruit_cutting_game]: https://github.com/Flutter-Journey/Fruit-Cutting-Game
 [spotify_clone]: https://github.com/Flutter-Journey/Spotify-With-Flutter
+[food_restaurant_ui]: https://github.com/Flutter-Journey/Food-Restaurant-UI
+[flutter_ui_challenge]: https://github.com/Flutter-Journey/Flutter_UI_Challenge
+[flutter_firebase]: https://github.com/Flutter-Journey/Flutter_Firebase
