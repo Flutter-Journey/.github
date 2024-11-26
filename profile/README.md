@@ -14,7 +14,7 @@
   <br>
 </div>
 
-![Focus on Flutter](/media/focus_flutter.jpg)
+![Focus on Flutter](/media/focus_flutter.png)
 
 ### 💡 **Why Flutter Journey?**
 
