@@ -48,9 +48,14 @@ module.exports = async ({github, context}) => {
 
       // Process and write the updated content
       const updatedReadme = readme.replace(
-        /(?<=<!-- PublicChatGroup -->.*\n)[\S\s]*?(?=<!-- \/PublicChatGroup -->|$(?![\n]))/gm,
+        /(?<=<!-- PublicChatGroup -->\s*\n)[\S\s]*?(?=\s*<!-- \/PublicChatGroup -->|$(?![\n]))/gm,
         renderComments(result.repository.issue.comments.nodes)
       );
+
+      console.log(result.repository.issue.comments.nodes);
+
+      console.log(renderComments(result.repository.issue.comments.nodes))
+
 
       fileSystem.writeFileSync(readmePath, updatedReadme, 'utf8');
     };
