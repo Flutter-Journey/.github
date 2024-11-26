@@ -1,27 +1,29 @@
 <img src="https://raw.githubusercontent.com/Flutter-Journey/.github/refs/heads/main/media/logo.png" alt="Flutter Journey Logo" height="50">
 
 <div align="center">
-  <h1 style="font-size: 72px;">Welcome to Flutter Journey 🎯</h1>
+
+# **Welcome to Flutter Journey 🎯**
+
+</div>
+
+<div align="center">
   <br>
-  <p style="font-size: 20px;">🌱  Your Path to Becoming a Flutter Master 🌱 </p>
-  <p style="font-size: 16px; text-align: center;">
-    Flutter Journey is an open-source community that helps developers improve their Flutter skills through real-world projects. We focus on clear, achievable tasks and encourage learning by doing.
-  </p>
-  <br>
-  <p style="font-size: 16px; font-style: italic;">Let's keep this wave continue to rise!</p>
+  <p>🌱  Your Path to Becoming a Flutter Master 🌱 </p>
+  <p>Flutter Journey is an open-source community that helps developers improve their Flutter skills</p>
+  <p>through real-world projects. We focus on clear, achievable tasks and encourage learning by doing.</p>
   <br>
 </div>
 
 ![Focus on Flutter](/media/focus_flutter.jpg)
 
-## 💡 **Why Flutter Journey?**
+### 💡 **Why Flutter Journey?**
 
 Flutter Journey is an open-source community that helps developers improve their Flutter skills through real-world projects, building stunning UIs, and learning by doing.
 
 Our goal is to enhance your Flutter abilities, elevate your expertise, and encourage collaboration within the community.
 
 
-## 🚀 **Join Us**
+### 🚀 **Join Us**
 
 If you're passionate about Flutter or UI/UX, this project is for you. Contribute to open-source projects, collaborate with others, and grow your skills while becoming a Flutter expert.
 
