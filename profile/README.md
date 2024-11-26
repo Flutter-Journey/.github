@@ -1,40 +1,37 @@
-<img src="https://raw.githubusercontent.com/Flutter-Journey/.github/refs/heads/main/media/logo.png" alt="Flutter Journey Logo" height="50">
+# Welcome to Flutter Journey Open Source!
+Home of open source software maintained by [Flutter Journey][flutter_journey_github_link].
 
-<div align="center">
+Our goal is to share our knowledge through helpful tools, maintain a positive open source community that helps developers improve their Flutter skills.  We focus on clear, achievable tasks and encourage learning by doing
 
-# **Welcome to Flutter Journey 🎯**
+[![Flutter Journey][logo_white]][flutter_journey_link_dark]
+[![Flutter Journey][logo_black]][flutter_journey_link_light]
 
-</div>
+### Check out our developer hub at [flutter-journey.dev](https://flutter-journey.dev) 👇
+<a href="https://flutter-journey.dev"><img src="https://github.com/Flutter-Journey/.github/blob/main/media/community_preview.png" alt="Flutter Journey Hub" width="500"/></a>
 
-<div align="center">
-  <br>
-  <p>🌱  Your Path to Becoming a Flutter Master 🌱 </p>
-  <p>Flutter Journey is an open-source community that helps developers improve their Flutter skills</p>
-  <p>through real-world projects. We focus on clear, achievable tasks and encourage learning by doing.</p>
-  <br>
-</div>
+### Try our exciting tools 👇
 
-![Focus on Flutter](/media/focus_flutter.png)
+#### 🔥 Flame Game
 
-### 💡 **Why Flutter Journey?**
+- 🍉 **[Fruit Cutting Game][fruit_cutting_game]**: A Flutter game template with slicing mechanics for fun and learning.
 
-Flutter Journey is an open-source community that helps developers improve their Flutter skills through real-world projects, building stunning UIs, and learning by doing.
+#### 🎯 Application Projects
 
-Our goal is to enhance your Flutter abilities, elevate your expertise, and encourage collaboration within the community.
+- 🎵 **[Spotify Clone][spotify_clone]**: Build an interactive music streaming UI using Flutter.
+- 🍽️ **[Food Restaurant UI][food_restaurant_ui]**: A beautifully designed food ordering app clone built using Flutter.
 
+#### 💼 Learning Challenges
 
-### 🚀 **Join Us**
-
-If you're passionate about Flutter or UI/UX, this project is for you. Contribute to open-source projects, collaborate with others, and grow your skills while becoming a Flutter expert.
+- 🎨 **[Flutter UI Challenge][flutter_ui_challenge]**: Explore and solve UI challenges to improve your Flutter skills.
+- 🔥 **[Flutter Firebase][flutter_firebase]**: Learn and integrate Firebase services into your Flutter projects.
 
 ---
 
-<div align="center">
-  <h1 style="font-size: 24px;">Flutter Journey Public Chat Group 🎯</h1>
-  <p>This is a public chat for anyone to join in and chat about all things Flutter, share new ideas, or just have a good time! 📝</p>
-  <p><a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new" style="font-style: italic;">Let's keep the conversation flowing!</a></p>
-  <br>
-</div>
+## Flutter Journey Public Chat Group 🎯
+
+<p>This is a public chat for anyone to join in and chat about all things Flutter, share new ideas, or just have a good time! 📝</p>
+<p><a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new" style="font-style: italic;">Let's keep the conversation flowing!</a></p>
+
 
 <!-- PublicChatGroup -->
 | Name | Date | Message |
@@ -43,4 +40,10 @@ If you're passionate about Flutter or UI/UX, this project is for you. Contribute
 <!-- /PublicChatGroup -->
 
 
----
+[logo_black]: https://github.com/Flutter-Journey/.github/raw/main/media/logo_black.png#gh-light-mode-only
+[logo_white]: https://github.com/Flutter-Journey/.github/raw/main/media/logo_white.png#gh-dark-mode-only
+[flutter_journey_link_dark]: https://flutter-journey.github.io#gh-dark-mode-only
+[flutter_journey_link_light]: https://flutter-journey.github.io#gh-light-mode-only
+[flutter_journey_github_link]: https://github.com/Flutter-Journey
+[fruit_cutting_game]: https://github.com/Flutter-Journey/Fruit-Cutting-Game
+[spotify_clone]: https://github.com/Flutter-Journey/Spotify-With-Flutter
