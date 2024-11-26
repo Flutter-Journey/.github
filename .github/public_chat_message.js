@@ -39,24 +39,16 @@ module.exports = async ({github, context}) => {
     const fileSystem = require('fs');
     const path = require('path');
 
-    module.exports = ({ github, context }) => {
-      // Path to file README.md in ./profile/
-      const readmePath = path.join(__dirname, '..', 'profile', 'README.md');
+    const readmePath = path.join(__dirname, 'profile', 'README.md');
 
-      // Read README.md content
-      const readme = fileSystem.readFileSync(readmePath, 'utf8');
+    const readme = fileSystem.readFileSync(readmePath, 'utf8');
 
-      // Process and write the updated content
-      const updatedReadme = readme.replace(
-        /(?<=<!-- PublicChatGroup -->\s*\n)[\S\s]*?(?=\s*<!-- \/PublicChatGroup -->|$(?![\n]))/gm,
+    fileSystem.writeFileSync(
+      readmePath,
+      readme.replace(
+        /(?<=<!-- PublicChatGroup -->.*\n)[\S\s]*?(?=<!-- \/PublicChatGroup -->|$(?![\n]))/gm,
         renderComments(result.repository.issue.comments.nodes)
-      );
-
-      console.log(result.repository.issue.comments.nodes);
-
-      console.log(renderComments(result.repository.issue.comments.nodes))
-
-
-      fileSystem.writeFileSync(readmePath, updatedReadme, 'utf8');
-    };
+      ),
+      'utf8'
+    );
   }
