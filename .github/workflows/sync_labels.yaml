@@ -7,6 +7,9 @@ jobs:
   labels:
     name: ♻️ Sync labels
     runs-on: ubuntu-20.04
+    permissions:
+      issues: write
+      contents: read 
     steps:
       - name: ⤵️ Check out code from GitHub
         uses: actions/checkout@v4
