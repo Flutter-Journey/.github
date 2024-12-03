@@ -1,6 +1,6 @@
 ## Reporting Security Issues
 
-If you discover a security vulnerability, please **do not** report it publicly. Instead, send us an email directly at **chunhthanhde.dev@gmail.com** with the following details:
+If you discover a security vulnerability, please **do not** report it publicly. Instead, send us an email directly at **flutterjourney.org@gmail.com** with the following details:
 
 ### What to Include in Your Report:
 

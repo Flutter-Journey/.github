@@ -36,7 +36,7 @@ This Code of Conduct applies to all community spaces (forums, chats, events) and
 
 ## Reporting Violations
 
-If you experience or witness any abusive or inappropriate behavior, please report it to **chunhthanhde.dev@gmail.com**. All complaints will be investigated promptly and confidentially.
+If you experience or witness any abusive or inappropriate behavior, please report it to **flutterjourney.org@gmail.com**. All complaints will be investigated promptly and confidentially.
 
 ## Enforcement
 
