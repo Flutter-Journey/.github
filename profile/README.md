@@ -1,13 +1,13 @@
 # Welcome to Flutter Journey Open Source!
 
-Home of open source software maintained by [Flutter Journey][flutter_journey_github_link].
-
 Our goal is to share our knowledge through helpful project, create a positive open source community that helps developers improve their Flutter skills.
 
 We focus on clear, achievable tasks and encourage learning by doing.
 
 [![Flutter Journey][logo_black]][flutter_journey_link_black]
 [![Flutter Journey][logo_white]][flutter_journey_link_white]
+
+Home of open source software maintained by [Flutter Journey][flutter_journey_github_link].
 
 ---
 
