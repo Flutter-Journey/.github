@@ -9,11 +9,21 @@ We focus on clear, achievable tasks and encourage learning by doing.
 [![Flutter Journey][logo_black]][flutter_journey_link_black]
 [![Flutter Journey][logo_white]][flutter_journey_link_white]
 
-#### Check out our developer hub at [flutter-journey.dev](https://flutter-journey.dev) 👇
+---
 
-<a href="https://github.com/Flutter-Journey"><img src="https://raw.githubusercontent.com/Flutter-Journey/.github/refs/heads/main/media/community_preview.png" alt="Flutter Journey Hub" width="380"/></a>
+### **🌱 Open Source Mindset – Grow Together 🌟**
 
-### Try our very good project 🎯
+> 💬 **Contributing to open source isn’t just about showcasing expertise.**  
+> 💡 **Top contributors believe:**  
+> - **Collaboration comes first, not just writing code.**  
+> - **It’s a journey of learning, not achieving perfection.**  
+> - **Making an impact matters more than gaining popularity.**  
+
+🚀 **Join us in building something meaningful, one step at a time. Together, we grow!**  
+
+---
+
+### **Explore Our Featured Projects 🎯**
 
 #### Flame Game
 
