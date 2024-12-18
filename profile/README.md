@@ -51,6 +51,7 @@ We focus on clear, achievable tasks and encourage learning by doing.
 <!-- PublicChatGroup -->
 | Name | Date | Message |
 |---|---|---|
+|[<img src="https://avatars.githubusercontent.com/u/84318986?s=24&v=4" alt="NguyenVinhKhang" width="24" />  NguyenVinhKhang](https://github.com/NguyenVinhKhang)|12/18/2024, 11:18:26 AM (UTC+7)|Let's grow strong together, everyone|
 |[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=43b85e2f73bd4fa076014769eac009907a06594f&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|11/26/2024, 7:56:29 AM (UTC+7)|Hello World xD|
 <!-- /PublicChatGroup -->
 
