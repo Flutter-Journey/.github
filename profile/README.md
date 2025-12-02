@@ -51,9 +51,10 @@ We focus on clear, achievable tasks and encourage learning by doing.
 <!-- PublicChatGroup -->
 | Name | Date | Message |
 |---|---|---|
-|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=d44b7dc6817c4ecb5ee38460c0c55d9c547fc155&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|2/20/2025, 11:11:20 AM (UTC+7)|and from there Flutter was born. 🦆🦆🦆 xD|
+|[<img src="https://avatars.githubusercontent.com/u/216030481?s=24&v=4" alt="hiho216" width="24" />  hiho216](https://github.com/hiho216)|12/2/2025, 11:41:47 PM (UTC+7)|hello, i'm interesting w/ your projek. Can I learn to be like you?|
+|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=813b5906b2da04bd7c9f899d07d8855d978e0762&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|2/20/2025, 11:11:20 AM (UTC+7)|and from there Flutter was born. 🦆🦆🦆 xD|
 |[<img src="https://avatars.githubusercontent.com/u/84318986?s=24&v=4" alt="NguyenVinhKhang" width="24" />  NguyenVinhKhang](https://github.com/NguyenVinhKhang)|12/18/2024, 11:18:26 AM (UTC+7)|Let's grow strong together, everyone|
-|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=d44b7dc6817c4ecb5ee38460c0c55d9c547fc155&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|11/26/2024, 7:56:29 AM (UTC+7)|Hello World xD|
+|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=813b5906b2da04bd7c9f899d07d8855d978e0762&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|11/26/2024, 7:56:29 AM (UTC+7)|Hello World xD|
 <!-- /PublicChatGroup -->
 
 
